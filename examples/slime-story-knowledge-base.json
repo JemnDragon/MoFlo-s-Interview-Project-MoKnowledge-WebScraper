@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "scan": {
+    "status": "complete",
+    "startedAt": "2026-08-19T03:27:41.698Z",
+    "finishedAt": "2026-08-19T03:27:46.242Z",
+    "requestedUrl": "https://slimestory.com/",
+    "resolvedUrl": "https://slimestory.com/",
+    "pagesFetched": [
+      {
+        "url": "https://slimestory.com/",
+        "pageType": "homepage"
+      },
+      {
+        "url": "https://slimestory.com/collections/all",
+        "pageType": "services"
+      },
+      {
+        "url": "https://slimestory.com/collections/food-biomes",
+        "pageType": "services"
+      },
+      {
+        "url": "https://slimestory.com/pages/contact",
+        "pageType": "contact"
+      },
+      {
+        "url": "https://slimestory.com/blogs/news",
+        "pageType": "blog"
+      },
+      {
+        "url": "https://slimestory.com/blogs/stock-location",
+        "pageType": "contact"
+      }
+    ],
+    "pagesFailed": [],
+    "durationMs": 4544
+  },
+  "companyFoundation": {
+    "overview": "Slime Story is the official store of the creator Slimecicle. It sells slime characters, among them the Picnic Pal collection of four unique slimes, which the site describes as soft, weird and cuddly. The site organises its products under Biomes, Picnic Pals, Mushroom Mayhem, Wetlands, Ocean and Forest.",
+    "companyName": "Slime Story",
+    "website": "https://slimestory.com/",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": "Retailer",
+    "yearFounded": null,
+    "legalEntityType": null,
+    "employeeCount": null,
+    "mainAddress": null,
+    "otherLocations": [],
+    "serviceLocations": [],
+    "alternativeCompanyNames": []
+  },
+  "positioning": {
+    "pitch": "If you want Slimecicle merchandise, this is his own shop rather than a third-party seller. The Picnic Pal range gives you four different slimes to choose between, each odd-looking and made for hugging, and if one isn't enough there are further ranges themed around mushrooms, wetlands, the ocean and the forest.",
+    "foundingStory": null
+  },
+  "marketAndCustomers": {
+    "targetBuyers": null,
+    "customerNeeds": null,
+    "idealCustomerPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [],
+    "funnels": [],
+    "ctas": [
+      {
+        "label": "Learn More",
+        "href": "https://slimestory.com/pages/slimecyclopedia",
+        "kind": "link",
+        "sourceUrl": "https://slimestory.com/"
+      },
+      {
+        "label": "Shop All",
+        "href": "https://slimestory.com/collections/food-biomes",
+        "kind": "link",
+        "sourceUrl": "https://slimestory.com/"
+      },
+      {
+        "label": "Shop Collection",
+        "href": "https://slimestory.com/collections/food-biomes",
+        "kind": "link",
+        "sourceUrl": "https://slimestory.com/"
+      }
+    ],
+    "suppliersPartners": [
+      {
+        "name": "Shopify",
+        "domain": "shopify.com",
+        "detectedVia": "commerce script/embed"
+      },
+      {
+        "name": "Cloudflare",
+        "domain": "cloudflare.com",
+        "detectedVia": "infrastructure script/embed"
+      }
+    ]
+  },
+  "brandingAndStyle": {
+    "writingStyle": "The catalogue is organised in ecological terms — \"Biomes\", \"Food Biomes\", \"Wetlands\", \"Ocean\", \"Forest\" — with alliterative naming for the collections themselves (\"Picnic Pals\", \"Mushroom Mayhem\"). Direct address is imperative and exclamatory: \"Discover Slime Story...!\", \"Explore the Picnic Pal collection\". Products are framed as characters to be introduced rather than stock, under the all-caps header \"MEET THE\", and described with a blunt adjective run that keeps \"weird\" as a selling point beside \"soft\" and \"cuddly\".",
+    "artStyle": "The brand works entirely in illustration rather than photography, outlined in thick, hand-drawn black strokes, with a wordmark that is hand-lettered in wobbly all-lowercase letterforms rather than set in a stock face. A soft yellow-green anchors the palette against warm browns, oranges and berry reds. Scenes are dense and top-down, packed edge to edge with food and small round characters, painted with soft shading rather than flat fills.",
+    "fonts": [
+      "Gooddog-New"
+    ],
+    "brandColors": [
+      "#00000099",
+      "#cadd78",
+      "#cbdd78",
+      "#7c4947",
+      "rgba(232,232,232,0.9)",
+      "#e8e8e8",
+      "#000001",
+      "#fcf1b5"
+    ],
+    "logos": [
+      {
+        "url": "https://slimestory.com/cdn/shop/files/slime-main.svg?v=1729317446&width=400",
+        "alt": "Slime Story",
+        "detectedVia": "img[logo]"
+      },
+      {
+        "url": "https://slimestory.com/cdn/shop/files/Slime_Story_Food_Banner.png?v=1764294731",
+        "alt": null,
+        "detectedVia": "og:image"
+      },
+      {
+        "url": "https://slimestory.com/cdn/shop/files/slime-main_9df8d571-f986-4098-befb-77ea7dee495f.svg?crop=center&height=32&v=1729529191&width=32",
+        "alt": null,
+        "detectedVia": "link[rel=icon]"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0819/7917/9302/files/Slime_Story_Food_Banner.png?v=1764294731",
+        "alt": null,
+        "detectedVia": "og:image"
+      }
+    ]
+  },
+  "onlinePresence": {
+    "socialMediaLinks": []
+  },
+  "keyPeople": [],
+  "offerings": [
+    {
+      "name": "Sundae Slime Plush",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    },
+    {
+      "name": "Sweet Snail Slime Plush",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    },
+    {
+      "name": "Radalotl Slime Plush",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    },
+    {
+      "name": "Fruitbat Slime Plush",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    },
+    {
+      "name": "Pincic Pals Enamel Pin Set",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    },
+    {
+      "name": "Picnic Pal Sticker Pack",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$7.00",
+      "sourceUrl": "https://slimestory.com/collections/all"
+    }
+  ],
+  "customSections": [],
+  "extensions": {
+    "siteLanguage": {
+      "main": "en",
+      "alternates": []
+    },
+    "demographicDetail": {
+      "ageRange": null,
+      "incomeBracket": null,
+      "householdType": null
+    },
+    "valuesAndSocialPositioning": null,
+    "testimonials": [],
+    "faq": [
+      {
+        "question": "Biomes",
+        "answer": "Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+        "sourceUrl": "https://slimestory.com/"
+      }
+    ],
+    "differentiators": null,
+    "certifications": [],
+    "contentThemes": [
+      {
+        "theme": "plush",
+        "mentions": 22,
+        "examples": [
+          "Sweet Snail Slime Plush",
+          "Radalotl Slime Plush",
+          "Fruitbat Slime Plush"
+        ]
+      },
+      {
+        "theme": "slime",
+        "mentions": 21,
+        "examples": [
+          "Sweet Snail Slime Plush",
+          "Radalotl Slime Plush",
+          "Fruitbat Slime Plush"
+        ]
+      },
+      {
+        "theme": "islands",
+        "mentions": 5,
+        "examples": [
+          "Åland Islands EUR €",
+          "British Virgin Islands USD $",
+          "Cayman Islands KYD $"
+        ]
+      },
+      {
+        "theme": "mushroom",
+        "mentions": 4,
+        "examples": [
+          "Mushroom Slime Plush",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+          "Mushroom Mayhem"
+        ]
+      },
+      {
+        "theme": "ocean",
+        "mentions": 4,
+        "examples": [
+          "OCEAN",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+          "Ocean"
+        ]
+      },
+      {
+        "theme": "pals",
+        "mentions": 4,
+        "examples": [
+          "PICNIC PALS",
+          "Pincic Pals Enamel Pin Set",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest"
+        ]
+      },
+      {
+        "theme": "picnic",
+        "mentions": 4,
+        "examples": [
+          "PICNIC PALS",
+          "Picnic Pal Sticker Pack",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest"
+        ]
+      },
+      {
+        "theme": "forest",
+        "mentions": 3,
+        "examples": [
+          "FOREST",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+          "Forest"
+        ]
+      },
+      {
+        "theme": "island",
+        "mentions": 3,
+        "examples": [
+          "Ascension Island SHP £",
+          "Christmas Island AUD $",
+          "Norfolk Island AUD $"
+        ]
+      },
+      {
+        "theme": "wetlands",
+        "mentions": 3,
+        "examples": [
+          "WETLANDS",
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+          "Wetlands"
+        ]
+      },
+      {
+        "theme": "biomes",
+        "mentions": 2,
+        "examples": [
+          "Biomes Picnic Pals Mushroom Mayhem Wetlands Ocean Forest",
+          "Food Biomes"
+        ]
+      }
+    ],
+    "legalAndCompliance": [
+      {
+        "kind": "privacy",
+        "text": "Privacy Policy Terms of Service Refund Policy Shipping Policy document.addEventListener('DOMContentLoaded', () => { if (document.querySelector('#f-socials li') === null) { const elx = document.getElementById('f-socials'); elx.remove() } }) American Express Apple Pay Diners ClubDiscoverGoogle Pay Mastercard PayPalShop Pay Venmo Visa © 2026 Slime Story.",
+        "sourceUrl": "https://slimestory.com/"
+      }
+    ],
+    "currentPromotions": "Sweet Snail, Radalotl, and Fruitball Slime Plushes: were $40.00, now $28.00."
+  },
+  "id": "ac83e4fd-173d-48f6-9f6c-e8e17fc9bdb0",
+  "companyId": "98675782-434e-44c1-97b2-77af6f2706e6",
+  "savedAt": "2026-08-19T03:32:37.378Z"
+}

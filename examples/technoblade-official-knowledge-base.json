@@ -1,0 +1,707 @@
+{
+  "schemaVersion": 1,
+  "scan": {
+    "status": "complete",
+    "startedAt": "2026-08-19T03:53:45.131Z",
+    "finishedAt": "2026-08-19T03:53:53.758Z",
+    "requestedUrl": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE",
+    "resolvedUrl": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE",
+    "pagesFetched": [
+      {
+        "url": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE",
+        "pageType": "homepage"
+      },
+      {
+        "url": "https://technoblade.com/pages/about_technoblade",
+        "pageType": "about"
+      },
+      {
+        "url": "https://technoblade.com/collections/best-sellers",
+        "pageType": "services"
+      },
+      {
+        "url": "https://technoblade.com/collections/new-arrivals",
+        "pageType": "services"
+      },
+      {
+        "url": "https://technoblade.com/pages/contact",
+        "pageType": "contact"
+      },
+      {
+        "url": "https://technoblade.com/pages/help",
+        "pageType": "faq"
+      },
+      {
+        "url": "https://technoblade.com/blogs/news",
+        "pageType": "blog"
+      },
+      {
+        "url": "https://technoblade.com/blogs/seb-test",
+        "pageType": "blog"
+      }
+    ],
+    "pagesFailed": [],
+    "durationMs": 8627
+  },
+  "companyFoundation": {
+    "overview": "Technoblade.com is the website of Technoblade, a gaming content creator who became widely known for playing games and publishing them on the internet. Its About page introduces him to visitors — both longtime followers and people encountering him for the first time — as a figure recognised for his talent, storytelling and humour. Technoblade has died, and the site states that a community of millions around the world continues to find inspiration in his dedication, persistence, kindness and positivity.",
+    "companyName": "Technoblade Official",
+    "website": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE",
+    "industry": null,
+    "businessModel": null,
+    "companyRole": "Retailer",
+    "yearFounded": null,
+    "legalEntityType": null,
+    "employeeCount": null,
+    "mainAddress": null,
+    "otherLocations": [],
+    "serviceLocations": [],
+    "alternativeCompanyNames": []
+  },
+  "positioning": {
+    "pitch": "If Technoblade's videos meant something to you, this is the shop that carries his name officially. New drops appear here and nowhere else, spanning clothing and smaller items you can wear or carry every day. The people who draw and build things for him aren't an afterthought either — they get their own page, with their names on it.",
+    "foundingStory": null
+  },
+  "marketAndCustomers": {
+    "targetBuyers": null,
+    "customerNeeds": null,
+    "idealCustomerPersona": null,
+    "industryGroupings": [],
+    "industryOutlook": null,
+    "channels": [],
+    "funnels": [],
+    "ctas": [
+      {
+        "label": "MAKE HASTE, YOU FOOL!",
+        "href": "https://technoblade.com/collections/respawned-restock",
+        "kind": "link",
+        "sourceUrl": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE"
+      },
+      {
+        "label": "View all",
+        "href": "https://technoblade.com/collections/new-arrivals",
+        "kind": "link",
+        "sourceUrl": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE"
+      }
+    ],
+    "suppliersPartners": [
+      {
+        "name": "Klaviyo",
+        "domain": "klaviyo.com",
+        "detectedVia": "email-marketing script/embed"
+      },
+      {
+        "name": "Shopify",
+        "domain": "shopify.com",
+        "detectedVia": "commerce script/embed"
+      },
+      {
+        "name": "YouTube Embed",
+        "domain": "youtube.com/embed",
+        "detectedVia": "media-embed script/embed"
+      }
+    ]
+  },
+  "brandingAndStyle": {
+    "writingStyle": "The About page carries the voice: dropped-subject fragments and direct greeting — \\\"Hi. Glad you made it here.\\\" — plus an in-community honorific used without explanation, \\\"our Dear Leader\\\", and self-deprecating scale in \\\"a little story\\\". Elsewhere the register is standard storefront copy — \\\"Shop exclusive drops, apparel, accessories and more\\\", \\\"Collection: Best Sellers\\\" — with no comparable phrasing choices. Warmth is aimed at the audience, \\\"the artists and creatives who make the Technoblade community what it is\\\", rather than at the products. No long-form prose appears in the passages sampled.",
+    "artStyle": null,
+    "fonts": [
+      "Rubik"
+    ],
+    "brandColors": [
+      "#d2312a",
+      "rgb(000)",
+      "#121212",
+      "#334fb4",
+      "#292929",
+      "rgb(181818)",
+      "#fdfdfd",
+      "#242833"
+    ],
+    "logos": [
+      {
+        "url": "https://technoblade.com/cdn/shop/files/TB-LOGO-W.png?v=1785475698&width=600",
+        "alt": "Technoblade Official",
+        "detectedVia": "img[logo]"
+      },
+      {
+        "url": "https://technoblade.com/cdn/shop/files/TB-LOGO8.png?v=1699568072&width=760",
+        "alt": null,
+        "detectedVia": "img[logo]"
+      },
+      {
+        "url": "https://technoblade.com/cdn/shop/files/TB_Favicon.png?crop=center&height=32&v=1721345299&width=32",
+        "alt": null,
+        "detectedVia": "link[rel=icon]"
+      },
+      {
+        "url": "http://technoblade.com/cdn/shop/collections/TECHNOBLADE-ARGO-KING-PLUSHIE14.jpg?v=1753977161",
+        "alt": null,
+        "detectedVia": "og:image"
+      },
+      {
+        "url": "http://technoblade.com/cdn/shop/collections/TB_SLIPPERS.jpg?v=1782187348",
+        "alt": null,
+        "detectedVia": "og:image"
+      }
+    ]
+  },
+  "onlinePresence": {
+    "socialMediaLinks": [
+      {
+        "platform": "X (Twitter)",
+        "url": "https://x.com/teamtechnoblade"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://www.instagram.com/teamtechnoblade"
+      },
+      {
+        "platform": "TikTok",
+        "url": "https://www.tiktok.com/@team.technoblade.o7"
+      },
+      {
+        "platform": "Reddit",
+        "url": "https://www.reddit.com/user/Team-Technoblade"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/@technoblade"
+      },
+      {
+        "platform": "Bluesky",
+        "url": "https://bsky.app/profile/teamtechnoblade.bsky.social"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/@StudioLORE"
+      }
+    ]
+  },
+  "keyPeople": [],
+  "offerings": [
+    {
+      "name": "Good Game Kit",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$75.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Good Game Hoodie (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$62.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "It Was Hilarious Hoodie",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$62.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "It Was Hilarious Tee",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "So Long Nerds Tee (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Good Game Long Sleeve Tee (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$38.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro King Collector Set",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$95.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro Pullover Hoodie (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$62.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro Long Sleeve Tee (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$38.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "It's My Birthday Reddit Tribute Tee (Vintage Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Self Defense Tee (Indigo)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Self Defense Reflective Hoodie (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$62.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro King Plushie (Limited First Edition)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Never Dies Pull Over Hoodie (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$59.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro Pig Keychain",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$13.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Agro Gaming Mouse Pad",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Technoblade Sticker Pack",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$17.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Self Defense Enamel Pin",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$10.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Technoblade Never Dies Enamel Pin",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$10.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "\"I Dropped Out Of College For This\" Enamel Pin",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$10.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Techno University Crewneck Sweatshirt (Navy)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$55.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Technoblade Never Dies Lanyard",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$10.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Technoblade Keycaps (Cherry Profile)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$28.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Estimated total",
+      "category": null,
+      "features": [],
+      "description": "$0.00 USD",
+      "pricing": "$0.00",
+      "sourceUrl": "https://technoblade.com/collections/best-sellers"
+    },
+    {
+      "name": "Techno Sword Earrings",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Techno Crown Necklace",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Techno Said It Crewneck Sweatshirt (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$55.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Techno Said It Crewneck Sweatshirt (Cream)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$55.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "One Of Us Crown Sword Pin",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$20.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Techno Stained Glass Keychain Standee",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$25.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Techno Embroidered Notebook",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Technoblade x Winterstar Sticker Pack",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$15.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Everyone Aboard Tote (Natural)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$25.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Technoplane Tie Dye Crewneck (Pink/Blue)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$55.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Everyone Aboard Tee (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Everyone Aboard Tee (Cool Blue)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "The King Cozy Socks (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$17.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "The King Cozy Socks (Red)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$17.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "The King Pajama Set (Black/White)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$75.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Carl Pajama Set (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$75.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Carl Pajama Set (Red)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$75.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "The King Sherpa House Slippers (Black/White)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$45.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Art Of War: Technoblade Edition",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$35.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Art Of War Collectors Coin",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$30.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Art Of War Playing Cards",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$22.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "All War Is Deception Zip-Up Hoodie (Black)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$68.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    },
+    {
+      "name": "Deception, Blade, Victory, King Pullover Hoodie (Burgundy)",
+      "category": null,
+      "features": [],
+      "description": null,
+      "pricing": "$65.00",
+      "sourceUrl": "https://technoblade.com/collections/new-arrivals"
+    }
+  ],
+  "customSections": [],
+  "extensions": {
+    "siteLanguage": {
+      "main": "en",
+      "alternates": []
+    },
+    "demographicDetail": {
+      "ageRange": null,
+      "incomeBracket": null,
+      "householdType": null
+    },
+    "valuesAndSocialPositioning": null,
+    "testimonials": [],
+    "faq": [
+      {
+        "question": "SHOP",
+        "answer": "SHOP FEATURED New Arrivals Respawned Restock The Art of War: Technoblade Edition Winterstar Art Collab Bundles & Save Gift Card Shop All ADULT Tees Long Sleeves Fleece & Outerwear Shop All Adult YOUTH Tees Long Sleeves Fleece & Outerwear Shop All Youth ACCESSORIES Toys Gamer Headwear Socks Patches & Pins Plushies Stickers Blankets Shop All Accessories MR. TECHNODAD One of Us + FOV",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "FEATURED",
+        "answer": "FEATURED New Arrivals Respawned Restock The Art of War: Technoblade Edition Winterstar Art Collab Bundles & Save Gift Card Shop All",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "ADULT",
+        "answer": "ADULT Tees Long Sleeves Fleece & Outerwear Shop All Adult",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "YOUTH",
+        "answer": "YOUTH Tees Long Sleeves Fleece & Outerwear Shop All Youth",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "ACCESSORIES",
+        "answer": "ACCESSORIES Toys Gamer Headwear Socks Patches & Pins Plushies Stickers Blankets Shop All Accessories",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "TECHNOWORLD",
+        "answer": "TECHNOWORLD Technoblade: The Man, The Pig, The Legend. Fan Communities Fan Art TechnoSnake Game From The Archives",
+        "sourceUrl": "https://technoblade.com/pages/help"
+      },
+      {
+        "question": "Size",
+        "answer": "0 selected Reset Size XSmall (1) XSmall (1 product) Small (12) Small (12 products) Medium (12) Medium (12 products) Large (12) Large (12 products) XLarge (12) XLarge (12 products) 2XLarge (12) 2XLarge (12 products) 3XLarge (12) 3XLarge (12 products)",
+        "sourceUrl": "https://technoblade.com/collections/best-sellers"
+      }
+    ],
+    "differentiators": null,
+    "certifications": [],
+    "contentThemes": [
+      {
+        "theme": "black",
+        "mentions": 15,
+        "examples": [
+          "Techno Said It Crewneck Sweatshirt (Black)",
+          "Good Game Hoodie (Black)",
+          "So Long Nerds Tee (Black)"
+        ]
+      },
+      {
+        "theme": "technoblade",
+        "mentions": 9,
+        "examples": [
+          "Technoblade Keycaps (Cherry Profile)",
+          "The Art of War: Technoblade Edition",
+          "Technoblade: The Man, The Pig, The Legend."
+        ]
+      },
+      {
+        "theme": "techno",
+        "mentions": 8,
+        "examples": [
+          "Techno Sword Earrings",
+          "Techno Crown Necklace",
+          "Techno Said It Crewneck Sweatshirt (Black)"
+        ]
+      },
+      {
+        "theme": "hoodie",
+        "mentions": 7,
+        "examples": [
+          "Good Game Hoodie (Black)",
+          "It Was Hilarious Hoodie",
+          "Agro Pullover Hoodie (Black)"
+        ]
+      },
+      {
+        "theme": "king",
+        "mentions": 7,
+        "examples": [
+          "Agro King Collector Set",
+          "Agro King Plushie (Limited First Edition)",
+          "The King Cozy Socks (Black)"
+        ]
+      },
+      {
+        "theme": "long",
+        "mentions": 7,
+        "examples": [
+          "So Long Nerds Tee (Black)",
+          "Good Game Long Sleeve Tee (Black)",
+          "ADULT ADULT Tees Long Sleeves Fleece & Outerwear Shop All Adult"
+        ]
+      },
+      {
+        "theme": "agro",
+        "mentions": 6,
+        "examples": [
+          "Agro King Collector Set",
+          "Agro Pullover Hoodie (Black)",
+          "Agro Long Sleeve Tee (Black)"
+        ]
+      },
+      {
+        "theme": "islands",
+        "mentions": 5,
+        "examples": [
+          "British Virgin Islands USD $",
+          "Cayman Islands USD $",
+          "Cook Islands USD $"
+        ]
+      },
+      {
+        "theme": "crewneck",
+        "mentions": 4,
+        "examples": [
+          "Techno Said It Crewneck Sweatshirt (Black)",
+          "Techno Said It Crewneck Sweatshirt (Cream)",
+          "Techno University Crewneck Sweatshirt (Navy)"
+        ]
+      }
+    ],
+    "legalAndCompliance": [
+      {
+        "kind": "privacy",
+        "text": "Your Account Gift Card Return Policy Contact Privacy Policy Terms Of Service Help In loving memory of Technoblade ❤️ Instagram YouTube TikTok X (Twitter) Tumblr Vimeo © 2026, Technoblade Official",
+        "sourceUrl": "https://technoblade.com/?gad_source=1&gad_campaignid=17991937105&gclid=CjwKCAjwhZDUBhBGEiwAbi5bjn8CGCnwD5hsaMyk3bWoQuOAI9n5rNqkOn0furNhPFFSFRa9zmXYIhoCK-0QAvD_BwE"
+      }
+    ],
+    "currentPromotions": null
+  },
+  "id": "6ba203d9-a31f-48e3-ade2-8c5abd43a15e",
+  "companyId": "e9314e7e-ba90-403e-b466-7370b7d2c8cb",
+  "savedAt": "2026-08-19T03:59:19.497Z"
+}
