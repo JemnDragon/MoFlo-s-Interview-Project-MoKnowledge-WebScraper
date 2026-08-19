@@ -1,0 +1,31 @@
+{
+  "_comment": "Static allow-list of known social domains. Every <a href> on every fetched page is filtered against this list; anything not on it is not treated as a social profile. Keys are the canonical platform label surfaced in the UI.",
+  "domains": [
+    { "platform": "Facebook", "match": ["facebook.com", "fb.com", "fb.me"] },
+    { "platform": "Instagram", "match": ["instagram.com", "instagr.am"] },
+    { "platform": "X (Twitter)", "match": ["twitter.com", "x.com", "t.co"] },
+    { "platform": "LinkedIn", "match": ["linkedin.com", "lnkd.in"] },
+    { "platform": "YouTube", "match": ["youtube.com", "youtu.be"] },
+    { "platform": "TikTok", "match": ["tiktok.com"] },
+    { "platform": "Pinterest", "match": ["pinterest.com", "pin.it"] },
+    { "platform": "Yelp", "match": ["yelp.com", "yelp.to"] },
+    { "platform": "Google Business", "match": ["g.page", "business.google.com"] },
+    { "platform": "Threads", "match": ["threads.net", "threads.com"] },
+    { "platform": "Nextdoor", "match": ["nextdoor.com"] },
+    { "platform": "Snapchat", "match": ["snapchat.com"] },
+    { "platform": "Reddit", "match": ["reddit.com"] },
+    { "platform": "WhatsApp", "match": ["wa.me", "whatsapp.com"] },
+    { "platform": "Vimeo", "match": ["vimeo.com"] },
+    { "platform": "Bluesky", "match": ["bsky.app"] },
+    { "platform": "Mastodon", "match": ["mastodon.social"] },
+    { "platform": "GitHub", "match": ["github.com"] },
+    { "platform": "Etsy", "match": ["etsy.com"] },
+    { "platform": "Houzz", "match": ["houzz.com"] },
+    { "platform": "TripAdvisor", "match": ["tripadvisor.com"] },
+    { "platform": "Angi", "match": ["angi.com", "angieslist.com"] },
+    { "platform": "Thumbtack", "match": ["thumbtack.com"] },
+    { "platform": "Eventbrite", "match": ["eventbrite.com"] },
+    { "platform": "Spotify", "match": ["open.spotify.com"] },
+    { "platform": "Apple Podcasts", "match": ["podcasts.apple.com"] }
+  ]
+}

@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+/*
+ * Palette matched to the MoFlo Cloud product UI: white surfaces, very light grey
+ * insets, near-black headings, grey body copy, and one vivid blue used for
+ * primary actions and accent words. Buttons are pills; cards carry a soft
+ * shadow rather than a hard border.
+ *
+ * The `ink` ramp runs ink-50 (page) → ink-900 (primary type), naming the *role*
+ * rather than the lightness, so components never encode a theme decision.
+ *
+ * The four semantic colours below exist to keep the different kinds of "missing"
+ * visually distinguishable from each other, which is the whole point:
+ *
+ *   absent   — the scan found nothing        (neutral, matter-of-fact)
+ *   mock     — placeholder awaiting review   (amber, needs attention)
+ *   hidden   — a person hid this             (slate, deliberate)
+ *   partial  — the scan didn't finish        (cyan, informational)
+ *
+ * Collapsing these into one grey "no data" state is the single easiest way to
+ * make a knowledge base lie to the person reading it. Each pairing clears WCAG
+ * AA (4.5:1) for body text on its own tinted background.
+ */
+
+@theme {
+  /* Neutral ramp. */
+  --color-ink-900: #16181d;
+  --color-ink-700: #3f4550;
+  --color-ink-500: #6f7684;
+  --color-ink-400: #98a0ae;
+  --color-ink-200: #e6e9ef;
+  --color-ink-100: #f1f3f7;
+  --color-ink-50: #fbfcfe;
+
+  /* Card fill, and the slightly recessed grey MoFlo uses for form panels. */
+  --color-surface: #ffffff;
+  --color-surface-sunken: #f7f8fa;
+
+  /*
+   * MoFlo blue.
+   *   accent-500  primary button fill (white type on it clears AA at 5.2:1)
+   *   accent-hover  the pressed/hover tone — deliberately DARKER, since this is
+   *                 a light theme and hover should deepen rather than lighten
+   *   accent-600  accent type on white (6.9:1)
+   *   accent-100  tinted chip background
+   */
+  --color-accent-500: #2563eb;
+  --color-accent-hover: #1b4fd1;
+  --color-accent-600: #1d4ed8;
+  --color-accent-100: #eaf0ff;
+
+  --color-mock-600: #92600a;
+  --color-mock-500: #c2860b;
+  --color-mock-100: #fdf4de;
+
+  --color-hidden-600: #515a6b;
+  --color-hidden-100: #eef0f4;
+
+  --color-partial-600: #10617b;
+  --color-partial-100: #e2f1f7;
+
+  --color-danger-600: #b42318;
+  --color-danger-100: #fdecea;
+
+  --color-good-600: #13704a;
+  --color-good-100: #e4f5ec;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: var(--color-ink-50);
+  color: var(--color-ink-900);
+  font-family:
+    "Poppins", "Jost", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * MoFlo's headings use a geometric sans. The stack above prefers one if the
+ * machine has it and falls back cleanly otherwise — no webfont is downloaded,
+ * so an offline `next build` cannot fail on it. To match exactly, add
+ * `next/font/google` with Poppins in layout.tsx and drop the family here.
+ */
+h1,
+h2,
+h3 {
+  letter-spacing: -0.015em;
+}
+
+/* Utility classes used across several components. */
+@utility card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-ink-200);
+  border-radius: 0.875rem;
+  box-shadow:
+    0 1px 2px rgb(16 24 40 / 0.04),
+    0 1px 3px rgb(16 24 40 / 0.05);
+}
+
+@utility field-label {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--color-ink-700);
+  letter-spacing: 0.01em;
+}
+
+@utility hint {
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: var(--color-ink-500);
+}
+
+/* Inputs sit on the recessed grey, matching the MoFlo contact form. */
+input[type="text"],
+input[type="number"],
+input[type="url"],
+input[type="search"],
+select,
+textarea {
+  width: 100%;
+  border: 1px solid var(--color-ink-200);
+  border-radius: 0.625rem;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  background: var(--color-surface);
+  color: var(--color-ink-900);
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--color-ink-400);
+}
+
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--color-accent-500);
+  outline-offset: 1px;
+}
+
+textarea {
+  resize: vertical;
+  min-height: 5rem;
+  line-height: 1.5;
+}
+
+input[type="checkbox"] {
+  accent-color: var(--color-accent-500);
+}
+
+/* Text that is a placeholder, not a value — visually distinct at a glance. */
+.is-mock {
+  background: var(--color-mock-100);
+  border-color: #e3c98c;
+  color: var(--color-mock-600);
+  font-style: italic;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
