@@ -2,13 +2,21 @@
 
 ---
 
-## 1. How many hours per week you are available?
+## 1. Do you have any keys separate from your GitHub link necessary?
+
+No keys or environment variables are needed — the app runs with npm install && npm run dev. 
+No LLM API calls are made in this build (narrative fields carry clearly-labelled mock placeholders; 
+the real prompts are in /prompts), and persistence is a local JSON store, so there's no database URL either.
+
+---
+
+## 2. How many hours per week you are available?
 
 I'm available upwards to 18 hours a week.
 
 ---
 
-## 2. What's your schedule / preferred working hours (+ Time Zone)
+## 3. What's your schedule / preferred working hours (+ Time Zone)
 
 My preferred schedule is as follows:
 
@@ -18,12 +26,12 @@ My preferred schedule is as follows:
 
 ---
 
-## 3. What's your earliest possible start date?
+## 4. What's your earliest possible start date?
 
 August 24th, 2026.
 
 ---
 
-## What's your current year in school and expected graduation date?
+## 5. What's your current year in school and expected graduation date?
 
 I'm a Senior at University of Nevada, Las Vegas, and I expect to graduate December 2026.
