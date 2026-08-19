@@ -20,9 +20,9 @@ I'm available upwards to 18 hours a week.
 
 My preferred schedule is as follows:
 
-**Monday**: 8:00am to 5:00pm
-**Thursday**: 8:00am to 12:00PM
-**Saturday**: 9:00am to 3:00PM
+**Monday**: 8:00am to 5:00pm [GMT-7]
+**Thursday**: 8:00am to 12:00PM [GMT-7]
+**Saturday**: 9:00am to 3:00PM [GMT-7]
 
 ---
 
